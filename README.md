@@ -47,6 +47,7 @@ Slides
 - `@Aspect`  
 - `@Bean`  
 - `@PropertySource`
+- ... (more)
 
 #### 🚀 **Core Spring Boot Annotations**
 - `@SpringBootApplication`
@@ -57,6 +58,7 @@ Slides
 - `@PathVariable`
 - `@Entity`
 - `@SpringBootTest`
+- ... (more)
 
 ---
 
