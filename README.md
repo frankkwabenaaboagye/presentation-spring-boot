@@ -1,4 +1,5 @@
-# 🌱 Introduction to Spring Boot
+
+# <img src="https://spring.io/img/spring.svg" alt="Spring Boot" width="30" height="30" style="vertical-align:middle"> Introduction to Spring Boot
 
 Welcome to the **Introduction to Spring Boot** presentation! 
 This README summarizes our technical session, covering key concepts, 
